@@ -13,7 +13,7 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 df = pd.read_csv('Impact_of_Remote_Work_on_Mental_Health.csv')
 
 # Streamlit app title
-st.title("Advanced Interactive Dashboard for Remote Work & Burnout Analysis")
+st.title("Dashboard for Remote Work & Burnout Analysis")
 
 # Sidebar Filters
 st.sidebar.header("Filter Data")
