@@ -103,3 +103,5 @@ st.dataframe(filtered_df)
 # --- Footer ---
 st.sidebar.markdown("---")
 st.sidebar.markdown("Advanced Interactive Dashboard for Remote Work Analysis\n\nBuilt with Streamlit & Plotly")
+
+st.markdown("### Made by Suraj Mishra & Dhruvil Patel with ❤️")
